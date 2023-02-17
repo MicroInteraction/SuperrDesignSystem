@@ -3,7 +3,8 @@
     "id": "65740ce50c8a72e29a3c2b2a3798a28b56da57ab",
     "name": "Spring",
     "selectedTokenSets": {
-      "global": "enabled"
+      "global": "enabled",
+      "Dynamic Style": "disabled"
     },
     "$figmaStyleReferences": {
       "Text.PrimaryTextColor": "S:efa1d813e4c5a70a3ed615f01ae2e553f95077bf,",
@@ -92,7 +93,8 @@
     "name": "Hoory",
     "selectedTokenSets": {
       "global": "enabled",
-      "Superr Light Theme": "enabled"
+      "Superr Light Theme": "enabled",
+      "Dynamic Style": "disabled"
     },
     "$figmaStyleReferences": {
       "Text.PrimaryTextColor": "S:ea0dcdd14f7f6d298615e07c524f1f81da6ca87c,",
