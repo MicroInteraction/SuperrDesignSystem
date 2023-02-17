@@ -43,7 +43,8 @@
   },
   "BorderRadius": {
     "value": "2",
-    "type": "sizing"
+    "type": "sizing",
+    "description": "change only to make things bigger"
   },
   "FontFamily": {
     "value": "Inter",
