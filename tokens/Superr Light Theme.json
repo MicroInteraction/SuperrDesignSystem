@@ -1247,23 +1247,7 @@
       }
     }
   },
-  "$metadata": {
-    "tokenSetOrder": {
-      "0": {
-        "value": "global",
-        "type": "other"
-      },
-      "1": {
-        "value": "Superr Light Theme",
-        "type": "other"
-      },
-      "2": {
-        "value": "Hoory 2",
-        "type": "other"
-      },
-      "3": {
-        "value": "Spring",
-        "type": "other"
+ 
       }
     }
   }
