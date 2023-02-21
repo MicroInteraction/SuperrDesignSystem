@@ -589,9 +589,6 @@
       "type": "fontWeights"
     }
   },
-    "0": {
-      "$figmaStyleReferences": {
-        },
       "name": {
         "value": "Hoory",
         "type": "other"
