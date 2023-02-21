@@ -1,46 +1,4 @@
 {
-  "Accents": {
-    "Raspberry": {
-      "value": "#9d9de7",
-      "type": "color"
-    },
-    "Peach": {
-      "value": "#d2d3ff",
-      "type": "color"
-    },
-    "BlueBerry": {
-      "value": "#c8d7fe",
-      "type": "color"
-    },
-    "Guava": {
-      "value": "#c4f8e0",
-      "type": "color"
-    },
-    "Melon": {
-      "value": "#baf3f3",
-      "type": "color"
-    },
-    "Dragonfruit": {
-      "value": "#ff7a9a",
-      "type": "color"
-    },
-    "Lyche": {
-      "value": "#ffd6ef",
-      "type": "color"
-    },
-    "Peachh": {
-      "value": "#ffdfd1",
-      "type": "color"
-    },
-    "Mango": {
-      "value": "#ffd79a",
-      "type": "color"
-    },
-    "Mandarine": {
-      "value": "#ffe99a",
-      "type": "color"
-    }
-  },
   "BorderRadius": {
     "value": "2",
     "type": "sizing",
@@ -66,12 +24,12 @@
     "value": "257",
     "type": "sizing"
   },
-  "SeedTextColor": {
-    "value": "#000000",
-    "type": "color"
+  "SurfaceHue": {
+    "value": "220",
+    "type": "sizing"
   },
-  "SeedBackgroundColor": {
-    "value": "#ffffff",
-    "type": "color"
+  "AccentLightness": {
+    "value": "80",
+    "type": "sizing"
   }
 }
