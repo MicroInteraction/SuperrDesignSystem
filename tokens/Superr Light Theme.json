@@ -592,47 +592,6 @@
   "$themes": {
     "0": {
       "$figmaStyleReferences": {
-        "Accents": {
-          "Raspberry": {
-            "value": "S:a2c68ae3668710231f036f872f6d01bf8eb64f50,",
-            "type": "other"
-          },
-          "Peach": {
-            "value": "S:6d29cfc462abe8edacbfcc2c84cf72c9ac9a7fb8,",
-            "type": "other"
-          },
-          "BlueBerry": {
-            "value": "S:65194f10381692d83e4c47fedfd8c385f7dd24f4,",
-            "type": "other"
-          },
-          "Guava": {
-            "value": "S:9f8a9098c06f81cdbbcf7375baa79ae430120f9f,",
-            "type": "other"
-          },
-          "Melon": {
-            "value": "S:19284a60a571ac75ed444fa6454fd0441f032cc1,",
-            "type": "other"
-          },
-          "Dragonfruit": {
-            "value": "S:a3b9e2e760a304a4f6fdc5fa633165e8b5a4f349,",
-            "type": "other"
-          },
-          "Lyche": {
-            "value": "S:0f2d0e41899a02bbcec67a1e341113c62f24de35,",
-            "type": "other"
-          },
-          "Peachh": {
-            "value": "S:0dc1e3236509eac49d0196b19c8be2c21ca1e8ee,",
-            "type": "other"
-          },
-          "Mango": {
-            "value": "S:89eac9493b119a4d3a03e1fd6c7740bf15c865ee,",
-            "type": "other"
-          },
-          "Mandarine": {
-            "value": "S:8b046f67b1b13ee67d5b55eb9a7d29460e15bcf6,",
-            "type": "other"
-          }
         },
         "Neutral": {
           "Black": {
